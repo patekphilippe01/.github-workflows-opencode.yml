@@ -1,1 +1,1 @@
-# .github-workflows-opencode.yml
+.github/workflows/opencode.yml
